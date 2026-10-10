@@ -84,5 +84,5 @@ A portfolio repository focused on **exploratory data analysis and prediction usi
 
 I'm interested in learning with others and collaborating on data analysis and visualization projects. Feedback on my work and suggestions for datasets to explore are welcome.
 
-**Kaggle:** [khadimhussain5](https://www.kaggle.com/khadimhussain5)  
+**Kaggle:** [khadimhussain10](https://www.kaggle.com/khadimhussain10)  
 **Email:** [khadimnetworks@gmail.com](mailto:khadimnetworks@gmail.com)
