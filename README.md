@@ -4,7 +4,7 @@
 <h3>Mathematics · Data Science · Education</h3>
 
 <p>
-  <strong> Data Science and Machine Learning Trainee — Quaid-e-Azam University Islamabad (QAU) </strong><br>
+  <strong> Data Science and Machine Learning Trainee — Quaid-e-Azam University Islamabad (QAU) </strong>
   BS Mathematics — International Islamic University Islamabad (IIUI)
 </p>
 
