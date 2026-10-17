@@ -1,14 +1,14 @@
 <div align="center">
 
 <h1>Hi, I'm Khadim Hussain 👋</h1>
-<h3>Mathematics · Data Science · Education</h3>
+<h3>Mathematics · Data Science · Numerical Methods · Education</h3>
 
 <p>
-  <strong> Data Science and Machine Learning Student — Quaid-e-Azam University Islamabad (QAU) </strong><br>
+  <strong>Data Science and Machine Learning Student — Quaid-e-Azam University Islamabad (QAU)</strong><br>
   BS Mathematics — International Islamic University Islamabad (IIUI)
 </p>
 
-<p>Exploring data with Python, statistical thinking, and clear visual explanations.</p>
+<p>I like turning equations and data into plots I can actually see and understand.</p>
 
 <p>
   <a href="https://github.com/Khadim-Hussain10"><img src="https://img.shields.io/badge/GitHub-Khadim--Hussain10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Khadim-Hussain10"></a>
@@ -22,25 +22,53 @@
 
 ## About me
 
-I bring a mathematics background and teaching experience to my studies in data science. **Statistics, linear algebra, and numerical methods** give me a foundation for understanding how analytical methods and predictive models work.
+I studied mathematics and I have taught mathematics and computer science. Now I am learning data science and machine learning with Python.
 
-I am building practical skills in **data analysis, visualization, and machine learning with Python**. My experience teaching mathematics and computer science also shapes how I present my work: explain the question, make the reasoning clear, and communicate the findings.
+I work with **numerical methods** and I am building skills in **data analysis, visualization, and machine learning**. My maths background (statistics and linear algebra) helps me understand how the methods and models really work.
+
+What I enjoy most is the place where maths meets computing. I like to take an equation, solve it numerically with finite differences, check the answer against known results, and then ask what a machine learning model can learn from it. My [lid-driven cavity project](https://github.com/Khadim-Hussain10/lid-driven-cavity-cfd) is an example of this.
+
+Teaching has taught me to explain things clearly. In my projects I try to do the same: state the question, show the steps, and say honestly where the results are weak.
+
+## Research interests
+
+**Applied and Computational Mathematics**
+
+- Fluid Mechanics
+- Numerical Optimization
+- Numerical Simulation
+- Partial Differential Equations
+
+**Data Science**
+
+- Data Analytics
+- Data Visualization
+- Machine Learning
 
 ## Featured projects
 
+### 🌊 [Lid-Driven Cavity Flow Solver (with a Machine Learning Model)](https://github.com/Khadim-Hussain10/lid-driven-cavity-cfd)
+
+I wrote a Python solver for 2D cavity flow using finite differences and checked it against the benchmark data of Ghia et al. (1982) at Re = 100, 400 and 1000. Then I ran it for 37 Reynolds numbers and trained a small model that predicts flow features from Re almost instantly.
+
+### 🌡️ [Beverage Cooling Curve Recorder (Arduino and Python)](https://github.com/Khadim-Hussain10/Beverage-Cooling-Curve-Recorder-Arduino-and-Python)
+
+**Semester project · Quaid-i-Azam University · October–December 2025**
+
+An Arduino with a temperature sensor records how a hot drink cools. In Python I:
+
+- cleaned the readings and explored the data with **pandas and NumPy**,
+- plotted the cooling curves of 5 trials with **Matplotlib and Seaborn**,
+- used polynomial regression (**scikit-learn**) to predict how long the drink takes to reach 40 °C,
+- explained the results in a short project presentation.
+
 ### 📊 [Public Health Data Analysis](https://github.com/Khadim-Hussain10/public-health-data-analysis)
 
-A portfolio repository focused on **exploratory data analysis and prediction using open health data**.
+Diabetes prediction with the Pima Indians dataset: cleaning the data, exploring it, and comparing Logistic Regression with Random Forest.
 
-[Explore the repository →](https://github.com/Khadim-Hussain10/public-health-data-analysis)
+### 🚢 [Titanic Survival Analysis](https://github.com/Khadim-Hussain10/titanic-survival-analysis)
 
-### 🔍 Data Analysis and Visualization Using Python
-
-**Academic project · Quaid-i-Azam University · October–December 2025**
-
-- Used **pandas and NumPy** to work with data and apply exploratory and statistical analysis.
-- Created **Matplotlib and Seaborn** plots to examine patterns and trends.
-- Prepared analytical reports to explain the findings.
+Exploratory analysis and a Random Forest model on the Kaggle Titanic data.
 
 ## Technical toolkit
 
@@ -58,16 +86,18 @@ A portfolio repository focused on **exploratory data analysis and prediction usi
 | Data analysis | Python, pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
 | Machine learning practice | scikit-learn |
+| Numerical methods and simulation | Finite differences, SciPy, MATLAB |
 | Working environment | Jupyter Notebook, Google Colab, VS Code |
-| Additional working knowledge | MySQL, MATLAB, C++ |
-| Mathematical foundation | Statistics, Linear Algebra, Numerical Methods, Operation Research, Differential Equ. |
+| Also used | MySQL, C++ |
+| Mathematical foundation | Fluid Mechanics I & II, Analytical Mechanics, Numerical Methods, Programming Languages, Operations Research, Ordinary and Partial Differential Equations, Mathematical Statistics, Linear Algebra, Group Theory, Ring and Field |
 
-## Current learning goals
+## What I am working on
 
-- Develop clearer, reproducible notebooks for exploratory data analysis.
-- Strengthen data cleaning, preprocessing, and visualization skills.
-- Learn to compare regression and classification models using appropriate evaluation methods.
-- Build a stronger understanding of machine learning and explore deep learning.
+- Practising the full data analysis process: cleaning the data, exploring it, making plots, and writing down what I find.
+- Building machine learning models and comparing them fairly, with train/test splits, cross-validation, and metrics like RMSE, R² and ROC AUC.
+- Writing clear notebooks that someone else can run and understand.
+- Learning more about computational fluid dynamics and numerical methods.
+- Exploring deep learning later.
 
 **Currently pursuing:** Google Data Analytics Professional Certificate.
 
@@ -82,7 +112,7 @@ A portfolio repository focused on **exploratory data analysis and prediction usi
 
 ## Connect with me
 
-I'm interested in learning with others and collaborating on data analysis and visualization projects. Feedback on my work and suggestions for datasets to explore are welcome.
+I like learning with other people. If you have feedback on my work, or a dataset or a problem I could try, I would be happy to hear from you.
 
 **Kaggle:** [khadimhussain10](https://www.kaggle.com/khadimhussain10)  
 **Email:** [khadimnetworks@gmail.com](mailto:khadimnetworks@gmail.com)
