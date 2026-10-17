@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://github.com/Khadim-Hussain10"><img src="https://img.shields.io/badge/GitHub-Khadim--Hussain10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: Khadim-Hussain10"></a>
-  <a href="https://www.kaggle.com/khadimhussain5"><img src="https://img.shields.io/badge/Kaggle-View_Profile-035A78?style=for-the-badge&logo=kaggle&logoColor=white" alt="View my Kaggle profile"></a>
+  <a href="https://www.kaggle.com/khadimhussain10"><img src="https://img.shields.io/badge/Kaggle-View_Profile-035A78?style=for-the-badge&logo=kaggle&logoColor=white" alt="View my Kaggle profile"></a>
   <a href="mailto:khadimnetworks@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-2563EB?style=for-the-badge" alt="Email Khadim Hussain"></a>
 </p>
 
