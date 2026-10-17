@@ -77,7 +77,14 @@ Exploratory analysis and a Random Forest model on the Kaggle Titanic data.
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=black" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/LR-FF0000?style=flat-square&logo=python&logoColor=white" alt="Logistic Regression">
+  <img src="https://img.shields.io/badge/RF-228B22?style=flat-square&logo=python&logoColor=white" alt="Random Forest">
+  <img src="https://img.shields.io/badge/Finite_Differences-7B2CBF?style=flat-square" alt="Finite Differences">
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=black" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Google Colab">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=vscode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
@@ -85,9 +92,9 @@ Exploratory analysis and a Random Forest model on the Kaggle Titanic data.
 | :--- | :--- |
 | Data analysis | Python, pandas, NumPy |
 | Visualization | Matplotlib, Seaborn |
-| Machine learning practice | scikit-learn |
+| Machine learning practice | scikit-learn, Logistic Regression, Random Forest |
 | Numerical methods and simulation | Finite differences, SciPy, MATLAB |
-| Working environment | Jupyter Notebook, Google Colab, VS Code |
+| Working environment | Jupyter Notebook, Google Colab, Visual Studio Code |
 | Also used | MySQL, C++ |
 | Mathematical foundation | Fluid Mechanics I & II, Analytical Mechanics, Numerical Methods, Programming Languages, Operations Research, Ordinary and Partial Differential Equations, Mathematical Statistics, Linear Algebra, Group Theory, Ring and Field |
 
